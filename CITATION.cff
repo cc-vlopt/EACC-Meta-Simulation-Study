@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the preferred citation below."
+title: "EACC-Meta Simulation Code"
+version: "0.1.0"
+date-released: "2026-03-05"
+license: "MIT"
+repository-code: "https://github.com/cc-vlopt/EACC-Meta-Simulation"
+url: "https://github.com/cc-vlopt/EACC-Meta-Simulation"
+
+authors:
+  - family-names: "Sun"
+    given-names: "Lingyao"
+preferred-citation:
+  type: article
+  title: "Externally Anchored Covariate Completion for Meta-analysis with Incomplete Aggregate Data: A Simulation Study on Transportability"
+  authors:
+    - family-names: "Sun"
+    given-names: "Lingyao"
+  year: 2026
+  notes: "Manuscript under revision; update citation details (DOI/volume/pages) upon acceptance."
